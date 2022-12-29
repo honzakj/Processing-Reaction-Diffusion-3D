@@ -1,4 +1,5 @@
-# Processing Reaction Diffusion 3D
+# Reaction Diffusion 3D_Processing
 
-Simple true 3D reaction diffusion implementation made in Processing 4.0.1.<br>
+## Simple true 3D reaction diffusion implementation made in Processing 4.0.1.
+<br>
 Sketch includes possibility to export current state as csv file
