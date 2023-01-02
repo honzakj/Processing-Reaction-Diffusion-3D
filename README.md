@@ -8,7 +8,7 @@ For simulation variables inspiraton visit:
 
 
 Sketch includes possibility to export simulation results as a csv file so that you can use it in another software <br>
-The table saves into src folder.
+The table saves into src folder. The values saved are: xPos, yPos, zPos, level (difference between the two chemicals)
 <br><br>
 
 For all the functions to work you need to install peasyCam & controlP5 libraries
